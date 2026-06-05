@@ -1,0 +1,6 @@
+Model Name,Accuracy (%)
+TF-IDF,88.75
+Bayesian Model,88.75
+Random Forest,98.75
+K-MEANS CLUSTERING,86.42
+RNN,88.75

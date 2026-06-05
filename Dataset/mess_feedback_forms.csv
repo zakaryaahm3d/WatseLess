@@ -1,0 +1,401 @@
+What was the main dish today in breakfast?,How was the portion size? ,Did you leave food? ,"If yes, how much? ",Why did you leave?,What was the main dish today in lunch?,How was the portion size? .1,Did you leave food? .1,"If yes, how much? .1",Why did you leave?.1,What was the main dish today in dinner?,How was the portion size? .2,Did you leave food? .2,"If yes, how much? .2",Why did you leave?.2,Describe your experience,Mess hygiene,  Overall satisfaction of food
+Biryani,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Daal Chawal,Enough,No,None,No appetite,Taste was average overall,5,4
+Savour Pulao,Enough,Yes,Half,No appetite,Chicken Karahi,Enough,Yes,Half,No appetite,Chicken Karahi,Enough,Yes,Half,No appetite,Food quality was decent today,4,4
+Cold Rice,Too much,No,None,Cold food,Cold Rice,Too much,No,None,Cold food,Cold Rice,Too much,No,None,Cold food,Hygiene was decent but taste was average,1,2
+Dry Bread,Enough,Yes,Most,Bad taste,Daal Chawal,Enough,Yes,Most,Bad taste,Cold Rice,Enough,Yes,Most,Bad taste,Hygiene was decent but taste was average,2,1
+Daal Chawal,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Taste was average overall,4,5
+Burnt Daal,Enough,Yes,Half,Bad taste,Pasta,Enough,Yes,Half,Bad taste,Cold Rice,Enough,Yes,Half,Bad taste,Food was oily and cold,2,2
+Daal Chawal,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Meal was enjoyable overall,4,5
+Qeema,Too little,No,None,No appetite,Biryani,Too little,No,None,No appetite,Mix Vegetables,Too little,No,None,No appetite,Lunch was good but could improve,4,5
+Daal Chawal,Too much,Yes,Half,Too oily,Daal Chawal,Too much,Yes,Half,Too oily,Burnt Daal,Too much,Yes,Half,Too oily,Taste was not good today,2,1
+Cold Rice,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Daal Chawal,Enough,No,None,No appetite,Portion was fine but food was cold,3,2
+Daal Chawal,Enough,Yes,Most,Average taste,Qeema,Enough,Yes,Most,Average taste,Biryani,Enough,Yes,Most,Average taste,Food was fresh and tasty,4,5
+Daal Chawal,Too little,No,None,Fresh and tasty,Savour Pulao,Too little,No,None,Fresh and tasty,Qeema,Too little,No,None,Fresh and tasty,Food was fresh and tasty,5,5
+Pasta,Enough,Yes,Most,No appetite,Mix Vegetables,Enough,Yes,Most,No appetite,Daal Chawal,Enough,Yes,Most,No appetite,Taste was average overall,3,2
+Pasta,Enough,No,None,No appetite,Mix Vegetables,Enough,No,None,No appetite,Pasta,Enough,No,None,No appetite,Meal quality was acceptable,4,2
+Qeema,Too little,Yes,Most,Average taste,Biryani,Too little,Yes,Most,Average taste,Savour Pulao,Too little,Yes,Most,Average taste,Lunch was good but could improve,5,5
+Daal Chawal,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Taste was average overall,4,4
+Pasta,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Food was okay but oily,2,3
+Biryani,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Taste was average overall,4,4
+Chicken Karahi,Too little,No,None,No appetite,Chicken Karahi,Too little,No,None,No appetite,Pasta,Too little,No,None,No appetite,Food quality was decent today,4,5
+Dry Bread,Too much,Yes,Most,Too oily,Daal Chawal,Too much,Yes,Most,Too oily,Cold Rice,Too much,Yes,Most,Too oily,Hygiene was decent but taste was average,2,1
+Savour Pulao,Too little,No,None,Fresh and tasty,Qeema,Too little,No,None,Fresh and tasty,Savour Pulao,Too little,No,None,Fresh and tasty,Meal was enjoyable overall,4,4
+Daal Chawal,Enough,Yes,Half,Bad taste,Cold Rice,Enough,Yes,Half,Bad taste,Burnt Daal,Enough,Yes,Half,Bad taste,Taste was not good today,1,2
+Cold Rice,Enough,No,None,Too oily,Dry Bread,Enough,No,None,Too oily,Dry Bread,Enough,No,None,Too oily,Mess hygiene needs improvement,2,2
+Dry Bread,Enough,Yes,Most,Bad taste,Burnt Daal,Enough,Yes,Most,Bad taste,Dry Bread,Enough,Yes,Most,Bad taste,Hygiene was decent but taste was average,2,1
+Pasta,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Daal Chawal,Enough,No,None,Average taste,Hygiene was decent but taste was average,2,3
+Qeema,Too little,No,None,Fresh and tasty,Chicken Karahi,Too little,No,None,Fresh and tasty,Savour Pulao,Too little,No,None,Fresh and tasty,Food was fresh and tasty,4,5
+Daal Chawal,Enough,No,None,No appetite,Pasta,Enough,No,None,No appetite,Cold Rice,Enough,No,None,No appetite,Hygiene was decent but taste was average,3,2
+Dry Bread,Too much,No,None,Large portion,Daal Chawal,Too much,No,None,Large portion,Cold Rice,Too much,No,None,Large portion,Meal quality was acceptable,2,2
+Mix Vegetables,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Hygiene was decent but taste was average,2,2
+Daal Chawal,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Food quality was decent today,4,4
+Cold Rice,Enough,Yes,Most,Large portion,Cold Rice,Enough,Yes,Most,Large portion,Dry Bread,Enough,Yes,Most,Large portion,Hygiene was decent but taste was average,2,1
+Biryani,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Lunch was good but could improve,4,4
+Cold Rice,Enough,Yes,Half,Bad taste,Burnt Daal,Enough,Yes,Half,Bad taste,Dry Bread,Enough,Yes,Half,Bad taste,Food was oily and cold,2,1
+Savour Pulao,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Food was fresh and tasty,5,5
+Biryani,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Pasta,Enough,No,None,No appetite,Meal was enjoyable overall,5,5
+Savour Pulao,Enough,Yes,Most,No appetite,Biryani,Enough,Yes,Most,No appetite,Qeema,Enough,Yes,Most,No appetite,Taste was average overall,4,4
+Biryani,Enough,Yes,Half,Average taste,Savour Pulao,Enough,Yes,Half,Average taste,Mix Vegetables,Enough,Yes,Half,Average taste,Taste was average overall,4,5
+Burnt Daal,Too much,No,None,Bad taste,Cold Rice,Too much,No,None,Bad taste,Cold Rice,Too much,No,None,Bad taste,Hygiene was decent but taste was average,2,1
+Qeema,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Lunch was good but could improve,4,4
+Cold Rice,Enough,Yes,Most,Too oily,Mix Vegetables,Enough,Yes,Most,Too oily,Mix Vegetables,Enough,Yes,Most,Too oily,Portion was fine but food was cold,2,2
+Pasta,Enough,Yes,Half,Average taste,Biryani,Enough,Yes,Half,Average taste,Pasta,Enough,Yes,Half,Average taste,Portion was fine but food was cold,4,2
+Mix Vegetables,Too much,No,None,No appetite,Daal Chawal,Too much,No,None,No appetite,Pasta,Too much,No,None,No appetite,Taste was average overall,2,2
+Savour Pulao,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Food quality was decent today,5,4
+Dry Bread,Too much,No,None,Large portion,Daal Chawal,Too much,No,None,Large portion,Cold Rice,Too much,No,None,Large portion,Taste was not good today,2,1
+Cold Rice,Enough,Yes,Half,Too oily,Biryani,Enough,Yes,Half,Too oily,Pasta,Enough,Yes,Half,Too oily,Portion was fine but food was cold,2,2
+Chicken Karahi,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Satisfied with hygiene and taste,4,4
+Savour Pulao,Too little,No,None,Fresh and tasty,Chicken Karahi,Too little,No,None,Fresh and tasty,Savour Pulao,Too little,No,None,Fresh and tasty,Satisfied with hygiene and taste,4,4
+Daal Chawal,Too much,Yes,Half,Too oily,Pasta,Too much,Yes,Half,Too oily,Pasta,Too much,Yes,Half,Too oily,Hygiene was decent but taste was average,4,4
+Qeema,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Mix Vegetables,Enough,No,None,Fresh and tasty,Meal was enjoyable overall,4,4
+Qeema,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Pasta,Enough,No,None,Fresh and tasty,Food was fresh and tasty,4,5
+Daal Chawal,Too much,No,None,Too oily,Daal Chawal,Too much,No,None,Too oily,Daal Chawal,Too much,No,None,Too oily,Portion was fine but food was cold,2,3
+Pasta,Enough,Yes,Most,Too oily,Pasta,Enough,Yes,Most,Too oily,Daal Chawal,Enough,Yes,Most,Too oily,Portion was fine but food was cold,4,4
+Daal Chawal,Too much,Yes,Half,Too oily,Cold Rice,Too much,Yes,Half,Too oily,Cold Rice,Too much,Yes,Half,Too oily,Food was oily and cold,2,1
+Daal Chawal,Enough,Yes,Half,Bad taste,Mix Vegetables,Enough,Yes,Half,Bad taste,Dry Bread,Enough,Yes,Half,Bad taste,Portion size was too much,2,1
+Cold Rice,Too much,Yes,Half,Cold food,Burnt Daal,Too much,Yes,Half,Cold food,Dry Bread,Too much,Yes,Half,Cold food,Mess hygiene needs improvement,1,1
+Daal Chawal,Too much,Yes,Most,Large portion,Dry Bread,Too much,Yes,Most,Large portion,Dry Bread,Too much,Yes,Most,Large portion,Hygiene was decent but taste was average,2,1
+Mix Vegetables,Too much,Yes,Most,No appetite,Mix Vegetables,Too much,Yes,Most,No appetite,Pasta,Too much,Yes,Most,No appetite,Taste was average overall,2,2
+Cold Rice,Too much,Yes,Most,Too oily,Mix Vegetables,Too much,Yes,Most,Too oily,Dry Bread,Too much,Yes,Most,Too oily,Dinner quality was disappointing,2,2
+Daal Chawal,Enough,No,None,Bad taste,Dry Bread,Enough,No,None,Bad taste,Dry Bread,Enough,No,None,Bad taste,Mess hygiene needs improvement,2,1
+Qeema,Too little,Yes,Half,Average taste,Savour Pulao,Too little,Yes,Half,Average taste,Pasta,Too little,Yes,Half,Average taste,Food was fresh and tasty,5,4
+Cold Rice,Too much,Yes,Most,Large portion,Daal Chawal,Too much,Yes,Most,Large portion,Dry Bread,Too much,Yes,Most,Large portion,Taste was not good today,1,1
+Chicken Karahi,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Meal was enjoyable overall,5,5
+Burnt Daal,Enough,Yes,Half,Cold food,Pasta,Enough,Yes,Half,Cold food,Cold Rice,Enough,Yes,Half,Cold food,Taste was not good today,2,1
+Daal Chawal,Too much,No,None,Too oily,Biryani,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Hygiene was decent but taste was average,2,4
+Daal Chawal,Enough,No,None,Large portion,Dry Bread,Enough,No,None,Large portion,Cold Rice,Enough,No,None,Large portion,Hygiene was decent but taste was average,1,2
+Daal Chawal,Too much,No,None,Too oily,Daal Chawal,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Food was okay but oily,3,3
+Burnt Daal,Enough,Yes,Most,Cold food,Burnt Daal,Enough,Yes,Most,Cold food,Dry Bread,Enough,Yes,Most,Cold food,Food was oily and cold,2,2
+Pasta,Too much,Yes,Half,Average taste,Pasta,Too much,Yes,Half,Average taste,Daal Chawal,Too much,Yes,Half,Average taste,Portion was fine but food was cold,3,2
+Qeema,Too little,No,None,Fresh and tasty,Qeema,Too little,No,None,Fresh and tasty,Mix Vegetables,Too little,No,None,Fresh and tasty,Food quality was decent today,4,4
+Daal Chawal,Too much,Yes,Most,Bad taste,Cold Rice,Too much,Yes,Most,Bad taste,Burnt Daal,Too much,Yes,Most,Bad taste,Meal quality was acceptable,2,1
+Chicken Karahi,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Satisfied with hygiene and taste,4,5
+Daal Chawal,Enough,Yes,Most,Large portion,Cold Rice,Enough,Yes,Most,Large portion,Cold Rice,Enough,Yes,Most,Large portion,Food was oily and cold,2,2
+Burnt Daal,Enough,Yes,Most,Large portion,Cold Rice,Enough,Yes,Most,Large portion,Cold Rice,Enough,Yes,Most,Large portion,Portion was fine but food was cold,2,2
+Chicken Karahi,Too little,No,None,No appetite,Savour Pulao,Too little,No,None,No appetite,Daal Chawal,Too little,No,None,No appetite,Satisfied with hygiene and taste,5,4
+Savour Pulao,Too little,No,None,Average taste,Chicken Karahi,Too little,No,None,Average taste,Mix Vegetables,Too little,No,None,Average taste,Lunch was good but could improve,5,4
+Savour Pulao,Too little,Yes,Most,No appetite,Qeema,Too little,Yes,Most,No appetite,Mix Vegetables,Too little,Yes,Most,No appetite,Meal was enjoyable overall,4,5
+Daal Chawal,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Cold Rice,Enough,No,None,Average taste,Meal quality was acceptable,2,3
+Dry Bread,Enough,Yes,Half,Cold food,Mix Vegetables,Enough,Yes,Half,Cold food,Cold Rice,Enough,Yes,Half,Cold food,Hygiene was decent but taste was average,2,1
+Dry Bread,Too much,Yes,Most,Cold food,Daal Chawal,Too much,Yes,Most,Cold food,Dry Bread,Too much,Yes,Most,Cold food,Dinner quality was disappointing,1,2
+Mix Vegetables,Too much,No,None,No appetite,Mix Vegetables,Too much,No,None,No appetite,Cold Rice,Too much,No,None,No appetite,Meal quality was acceptable,2,2
+Biryani,Enough,Yes,Most,Average taste,Savour Pulao,Enough,Yes,Most,Average taste,Pasta,Enough,Yes,Most,Average taste,Food quality was decent today,5,4
+Chicken Karahi,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Taste was average overall,5,4
+Qeema,Enough,Yes,Half,Average taste,Chicken Karahi,Enough,Yes,Half,Average taste,Biryani,Enough,Yes,Half,Average taste,Meal was enjoyable overall,4,4
+Mix Vegetables,Enough,Yes,Half,Too oily,Mix Vegetables,Enough,Yes,Half,Too oily,Pasta,Enough,Yes,Half,Too oily,Meal quality was acceptable,4,2
+Cold Rice,Too much,Yes,Half,No appetite,Pasta,Too much,Yes,Half,No appetite,Cold Rice,Too much,Yes,Half,No appetite,Hygiene was decent but taste was average,3,4
+Burnt Daal,Too much,Yes,Half,Cold food,Pasta,Too much,Yes,Half,Cold food,Dry Bread,Too much,Yes,Half,Cold food,Hygiene was decent but taste was average,1,1
+Biryani,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Lunch was good but could improve,4,4
+Cold Rice,Too much,Yes,Most,No appetite,Daal Chawal,Too much,Yes,Most,No appetite,Pasta,Too much,Yes,Most,No appetite,Hygiene was decent but taste was average,4,4
+Biryani,Too little,No,None,No appetite,Qeema,Too little,No,None,No appetite,Daal Chawal,Too little,No,None,No appetite,Food was fresh and tasty,4,4
+Daal Chawal,Too little,No,None,Average taste,Savour Pulao,Too little,No,None,Average taste,Biryani,Too little,No,None,Average taste,Meal was enjoyable overall,5,5
+Qeema,Enough,Yes,Most,No appetite,Savour Pulao,Enough,Yes,Most,No appetite,Biryani,Enough,Yes,Most,No appetite,Taste was average overall,5,5
+Dry Bread,Too much,Yes,Half,Too oily,Dry Bread,Too much,Yes,Half,Too oily,Dry Bread,Too much,Yes,Half,Too oily,Portion was fine but food was cold,1,2
+Cold Rice,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Meal quality was acceptable,3,3
+Mix Vegetables,Too much,No,None,Average taste,Biryani,Too much,No,None,Average taste,Pasta,Too much,No,None,Average taste,Taste was average overall,2,3
+Biryani,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Meal was enjoyable overall,5,5
+Pasta,Too much,No,None,Too oily,Daal Chawal,Too much,No,None,Too oily,Cold Rice,Too much,No,None,Too oily,Meal quality was acceptable,4,2
+Dry Bread,Too much,No,None,Cold food,Burnt Daal,Too much,No,None,Cold food,Burnt Daal,Too much,No,None,Cold food,Taste was not good today,1,1
+Qeema,Too little,No,None,Average taste,Qeema,Too little,No,None,Average taste,Biryani,Too little,No,None,Average taste,Taste was average overall,4,4
+Daal Chawal,Too much,No,None,Average taste,Mix Vegetables,Too much,No,None,Average taste,Cold Rice,Too much,No,None,Average taste,Taste was average overall,4,4
+Daal Chawal,Too much,Yes,Half,Cold food,Mix Vegetables,Too much,Yes,Half,Cold food,Cold Rice,Too much,Yes,Half,Cold food,Hygiene was decent but taste was average,2,1
+Cold Rice,Enough,Yes,Half,Average taste,Daal Chawal,Enough,Yes,Half,Average taste,Pasta,Enough,Yes,Half,Average taste,Hygiene was decent but taste was average,2,3
+Qeema,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Food quality was decent today,4,4
+Chicken Karahi,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Lunch was good but could improve,4,5
+Burnt Daal,Enough,Yes,Half,Cold food,Mix Vegetables,Enough,Yes,Half,Cold food,Burnt Daal,Enough,Yes,Half,Cold food,Mess hygiene needs improvement,2,2
+Daal Chawal,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Food was fresh and tasty,4,5
+Dry Bread,Too much,Yes,Most,Cold food,Pasta,Too much,Yes,Most,Cold food,Cold Rice,Too much,Yes,Most,Cold food,Meal quality was acceptable,1,2
+Pasta,Too much,No,None,No appetite,Pasta,Too much,No,None,No appetite,Cold Rice,Too much,No,None,No appetite,Taste was average overall,3,2
+Cold Rice,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Daal Chawal,Enough,No,None,Average taste,Taste was average overall,4,4
+Cold Rice,Too much,No,None,Average taste,Mix Vegetables,Too much,No,None,Average taste,Mix Vegetables,Too much,No,None,Average taste,Meal quality was acceptable,2,4
+Savour Pulao,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Lunch was good but could improve,4,4
+Daal Chawal,Enough,Yes,Most,Average taste,Mix Vegetables,Enough,Yes,Most,Average taste,Mix Vegetables,Enough,Yes,Most,Average taste,Food was okay but oily,4,3
+Daal Chawal,Too little,No,None,Average taste,Savour Pulao,Too little,No,None,Average taste,Mix Vegetables,Too little,No,None,Average taste,Food was fresh and tasty,5,4
+Daal Chawal,Too little,No,None,Average taste,Biryani,Too little,No,None,Average taste,Chicken Karahi,Too little,No,None,Average taste,Satisfied with hygiene and taste,4,5
+Daal Chawal,Enough,Yes,Half,Fresh and tasty,Biryani,Enough,Yes,Half,Fresh and tasty,Qeema,Enough,Yes,Half,Fresh and tasty,Food was fresh and tasty,4,5
+Chicken Karahi,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Taste was average overall,5,4
+Cold Rice,Enough,Yes,Half,Too oily,Biryani,Enough,Yes,Half,Too oily,Mix Vegetables,Enough,Yes,Half,Too oily,Taste was average overall,3,3
+Mix Vegetables,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Food was okay but oily,4,4
+Daal Chawal,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Satisfied with hygiene and taste,4,4
+Chicken Karahi,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Food was fresh and tasty,5,5
+Burnt Daal,Enough,Yes,Most,Cold food,Dry Bread,Enough,Yes,Most,Cold food,Burnt Daal,Enough,Yes,Most,Cold food,Meal quality was acceptable,1,2
+Cold Rice,Enough,Yes,Half,No appetite,Biryani,Enough,Yes,Half,No appetite,Mix Vegetables,Enough,Yes,Half,No appetite,Food was okay but oily,2,2
+Dry Bread,Enough,Yes,Half,Too oily,Dry Bread,Enough,Yes,Half,Too oily,Cold Rice,Enough,Yes,Half,Too oily,Taste was not good today,1,1
+Qeema,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Food was okay but oily,5,4
+Pasta,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Hygiene was decent but taste was average,4,4
+Burnt Daal,Too much,No,None,Large portion,Daal Chawal,Too much,No,None,Large portion,Burnt Daal,Too much,No,None,Large portion,Hygiene was decent but taste was average,2,2
+Qeema,Too little,No,None,No appetite,Chicken Karahi,Too little,No,None,No appetite,Chicken Karahi,Too little,No,None,No appetite,Food was fresh and tasty,4,5
+Chicken Karahi,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Satisfied with hygiene and taste,4,5
+Dry Bread,Too much,No,None,Large portion,Cold Rice,Too much,No,None,Large portion,Cold Rice,Too much,No,None,Large portion,Meal quality was acceptable,2,2
+Savour Pulao,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Mix Vegetables,Enough,No,None,Fresh and tasty,Lunch was good but could improve,5,4
+Pasta,Enough,Yes,Half,Too oily,Mix Vegetables,Enough,Yes,Half,Too oily,Pasta,Enough,Yes,Half,Too oily,Hygiene was decent but taste was average,2,2
+Daal Chawal,Enough,No,None,Too oily,Pasta,Enough,No,None,Too oily,Daal Chawal,Enough,No,None,Too oily,Taste was average overall,3,2
+Mix Vegetables,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Food was okay but oily,3,3
+Daal Chawal,Too little,No,None,Fresh and tasty,Biryani,Too little,No,None,Fresh and tasty,Chicken Karahi,Too little,No,None,Fresh and tasty,Food was okay but oily,5,4
+Daal Chawal,Enough,Yes,Most,Fresh and tasty,Biryani,Enough,Yes,Most,Fresh and tasty,Biryani,Enough,Yes,Most,Fresh and tasty,Taste was average overall,4,4
+Cold Rice,Enough,Yes,Most,Cold food,Cold Rice,Enough,Yes,Most,Cold food,Dry Bread,Enough,Yes,Most,Cold food,Hygiene was decent but taste was average,1,2
+Mix Vegetables,Too much,Yes,Most,Average taste,Mix Vegetables,Too much,Yes,Most,Average taste,Mix Vegetables,Too much,Yes,Most,Average taste,Hygiene was decent but taste was average,4,3
+Daal Chawal,Too little,No,None,Fresh and tasty,Qeema,Too little,No,None,Fresh and tasty,Mix Vegetables,Too little,No,None,Fresh and tasty,Taste was average overall,5,4
+Burnt Daal,Too much,Yes,Most,Cold food,Dry Bread,Too much,Yes,Most,Cold food,Dry Bread,Too much,Yes,Most,Cold food,Dinner quality was disappointing,2,1
+Cold Rice,Enough,Yes,Half,Too oily,Biryani,Enough,Yes,Half,Too oily,Mix Vegetables,Enough,Yes,Half,Too oily,Hygiene was decent but taste was average,3,4
+Mix Vegetables,Enough,No,None,No appetite,Mix Vegetables,Enough,No,None,No appetite,Daal Chawal,Enough,No,None,No appetite,Food was okay but oily,3,4
+Burnt Daal,Too much,Yes,Most,Bad taste,Mix Vegetables,Too much,Yes,Most,Bad taste,Cold Rice,Too much,Yes,Most,Bad taste,Mess hygiene needs improvement,1,1
+Cold Rice,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Meal quality was acceptable,2,2
+Biryani,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Food was okay but oily,4,4
+Burnt Daal,Enough,Yes,Half,Bad taste,Dry Bread,Enough,Yes,Half,Bad taste,Dry Bread,Enough,Yes,Half,Bad taste,Dinner quality was disappointing,2,1
+Biryani,Too little,No,None,No appetite,Savour Pulao,Too little,No,None,No appetite,Savour Pulao,Too little,No,None,No appetite,Food quality was decent today,5,4
+Savour Pulao,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Daal Chawal,Enough,No,None,Fresh and tasty,Food was fresh and tasty,4,4
+Daal Chawal,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Hygiene was decent but taste was average,4,4
+Mix Vegetables,Too much,Yes,Half,Average taste,Mix Vegetables,Too much,Yes,Half,Average taste,Cold Rice,Too much,Yes,Half,Average taste,Hygiene was decent but taste was average,4,3
+Savour Pulao,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Daal Chawal,Enough,No,None,Fresh and tasty,Food was fresh and tasty,5,5
+Savour Pulao,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Satisfied with hygiene and taste,5,4
+Savour Pulao,Too little,No,None,Average taste,Chicken Karahi,Too little,No,None,Average taste,Qeema,Too little,No,None,Average taste,Food quality was decent today,5,4
+Cold Rice,Too much,Yes,Most,Too oily,Pasta,Too much,Yes,Most,Too oily,Cold Rice,Too much,Yes,Most,Too oily,Portion was fine but food was cold,4,4
+Daal Chawal,Enough,Yes,Half,Too oily,Cold Rice,Enough,Yes,Half,Too oily,Burnt Daal,Enough,Yes,Half,Too oily,Mess hygiene needs improvement,2,1
+Savour Pulao,Enough,Yes,Most,Fresh and tasty,Biryani,Enough,Yes,Most,Fresh and tasty,Mix Vegetables,Enough,Yes,Most,Fresh and tasty,Food was okay but oily,5,5
+Chicken Karahi,Enough,Yes,Half,Average taste,Chicken Karahi,Enough,Yes,Half,Average taste,Biryani,Enough,Yes,Half,Average taste,Meal was enjoyable overall,5,4
+Savour Pulao,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Daal Chawal,Enough,No,None,Fresh and tasty,Lunch was good but could improve,4,4
+Daal Chawal,Enough,Yes,Half,No appetite,Mix Vegetables,Enough,Yes,Half,No appetite,Cold Rice,Enough,Yes,Half,No appetite,Portion was fine but food was cold,3,3
+Dry Bread,Enough,No,None,Large portion,Burnt Daal,Enough,No,None,Large portion,Dry Bread,Enough,No,None,Large portion,Dinner quality was disappointing,1,1
+Daal Chawal,Enough,Yes,Half,No appetite,Biryani,Enough,Yes,Half,No appetite,Mix Vegetables,Enough,Yes,Half,No appetite,Taste was average overall,2,2
+Daal Chawal,Too much,Yes,Most,Large portion,Dry Bread,Too much,Yes,Most,Large portion,Cold Rice,Too much,Yes,Most,Large portion,Hygiene was decent but taste was average,2,1
+Dry Bread,Enough,Yes,Most,Bad taste,Mix Vegetables,Enough,Yes,Most,Bad taste,Cold Rice,Enough,Yes,Most,Bad taste,Meal quality was acceptable,1,1
+Qeema,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Taste was average overall,4,4
+Daal Chawal,Enough,No,None,Too oily,Pasta,Enough,No,None,Too oily,Daal Chawal,Enough,No,None,Too oily,Hygiene was decent but taste was average,4,3
+Pasta,Too much,No,None,Average taste,Pasta,Too much,No,None,Average taste,Pasta,Too much,No,None,Average taste,Hygiene was decent but taste was average,3,4
+Pasta,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Food was okay but oily,4,3
+Burnt Daal,Too much,Yes,Most,Too oily,Daal Chawal,Too much,Yes,Most,Too oily,Burnt Daal,Too much,Yes,Most,Too oily,Hygiene was decent but taste was average,2,2
+Chicken Karahi,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Satisfied with hygiene and taste,5,4
+Burnt Daal,Enough,Yes,Most,Large portion,Mix Vegetables,Enough,Yes,Most,Large portion,Dry Bread,Enough,Yes,Most,Large portion,Portion was fine but food was cold,1,1
+Daal Chawal,Too much,Yes,Half,Too oily,Dry Bread,Too much,Yes,Half,Too oily,Dry Bread,Too much,Yes,Half,Too oily,Taste was not good today,2,1
+Chicken Karahi,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Lunch was good but could improve,4,5
+Biryani,Too little,Yes,Most,Average taste,Chicken Karahi,Too little,Yes,Most,Average taste,Chicken Karahi,Too little,Yes,Most,Average taste,Food was fresh and tasty,5,5
+Dry Bread,Too much,Yes,Most,Large portion,Mix Vegetables,Too much,Yes,Most,Large portion,Cold Rice,Too much,Yes,Most,Large portion,Hygiene was decent but taste was average,2,2
+Qeema,Enough,Yes,Most,Fresh and tasty,Chicken Karahi,Enough,Yes,Most,Fresh and tasty,Pasta,Enough,Yes,Most,Fresh and tasty,Satisfied with hygiene and taste,5,5
+Daal Chawal,Too little,No,None,Average taste,Savour Pulao,Too little,No,None,Average taste,Savour Pulao,Too little,No,None,Average taste,Taste was average overall,5,5
+Mix Vegetables,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Daal Chawal,Enough,No,None,No appetite,Food was okay but oily,4,2
+Chicken Karahi,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Pasta,Enough,No,None,Fresh and tasty,Meal was enjoyable overall,4,4
+Mix Vegetables,Too much,Yes,Half,No appetite,Mix Vegetables,Too much,Yes,Half,No appetite,Daal Chawal,Too much,Yes,Half,No appetite,Hygiene was decent but taste was average,2,4
+Cold Rice,Enough,Yes,Most,No appetite,Pasta,Enough,Yes,Most,No appetite,Mix Vegetables,Enough,Yes,Most,No appetite,Food was okay but oily,2,3
+Cold Rice,Enough,Yes,Most,Large portion,Pasta,Enough,Yes,Most,Large portion,Dry Bread,Enough,Yes,Most,Large portion,Food was oily and cold,2,2
+Biryani,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Food was okay but oily,5,5
+Biryani,Too little,Yes,Most,Fresh and tasty,Chicken Karahi,Too little,Yes,Most,Fresh and tasty,Pasta,Too little,Yes,Most,Fresh and tasty,Food was okay but oily,4,5
+Dry Bread,Enough,Yes,Most,Bad taste,Pasta,Enough,Yes,Most,Bad taste,Dry Bread,Enough,Yes,Most,Bad taste,Meal quality was acceptable,1,2
+Savour Pulao,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Food quality was decent today,5,5
+Savour Pulao,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Pasta,Enough,No,None,No appetite,Taste was average overall,4,4
+Dry Bread,Enough,Yes,Half,Bad taste,Mix Vegetables,Enough,Yes,Half,Bad taste,Cold Rice,Enough,Yes,Half,Bad taste,Dinner quality was disappointing,2,1
+Cold Rice,Too much,No,None,No appetite,Daal Chawal,Too much,No,None,No appetite,Daal Chawal,Too much,No,None,No appetite,Taste was average overall,4,2
+Chicken Karahi,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Food quality was decent today,4,5
+Qeema,Too little,No,None,Average taste,Biryani,Too little,No,None,Average taste,Daal Chawal,Too little,No,None,Average taste,Satisfied with hygiene and taste,4,4
+Savour Pulao,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Food was okay but oily,4,5
+Savour Pulao,Too little,No,None,Fresh and tasty,Savour Pulao,Too little,No,None,Fresh and tasty,Chicken Karahi,Too little,No,None,Fresh and tasty,Satisfied with hygiene and taste,4,4
+Daal Chawal,Too little,Yes,Half,Fresh and tasty,Qeema,Too little,Yes,Half,Fresh and tasty,Biryani,Too little,Yes,Half,Fresh and tasty,Food was fresh and tasty,5,4
+Dry Bread,Too much,No,None,Large portion,Daal Chawal,Too much,No,None,Large portion,Cold Rice,Too much,No,None,Large portion,Mess hygiene needs improvement,1,2
+Dry Bread,Too much,Yes,Most,Large portion,Daal Chawal,Too much,Yes,Most,Large portion,Burnt Daal,Too much,Yes,Most,Large portion,Meal quality was acceptable,2,2
+Daal Chawal,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Meal was enjoyable overall,5,4
+Daal Chawal,Enough,No,None,No appetite,Pasta,Enough,No,None,No appetite,Cold Rice,Enough,No,None,No appetite,Hygiene was decent but taste was average,3,4
+Savour Pulao,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Food was fresh and tasty,4,4
+Biryani,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Food was okay but oily,4,4
+Cold Rice,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Burnt Daal,Too much,No,None,Too oily,Portion size was too much,1,2
+Qeema,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Satisfied with hygiene and taste,4,4
+Cold Rice,Too much,No,None,Average taste,Mix Vegetables,Too much,No,None,Average taste,Daal Chawal,Too much,No,None,Average taste,Hygiene was decent but taste was average,3,4
+Daal Chawal,Enough,No,None,Cold food,Daal Chawal,Enough,No,None,Cold food,Dry Bread,Enough,No,None,Cold food,Food was oily and cold,2,1
+Mix Vegetables,Too much,No,None,Too oily,Biryani,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Hygiene was decent but taste was average,3,3
+Savour Pulao,Too little,Yes,Half,Average taste,Savour Pulao,Too little,Yes,Half,Average taste,Savour Pulao,Too little,Yes,Half,Average taste,Taste was average overall,5,5
+Chicken Karahi,Enough,Yes,Most,Fresh and tasty,Qeema,Enough,Yes,Most,Fresh and tasty,Savour Pulao,Enough,Yes,Most,Fresh and tasty,Lunch was good but could improve,4,5
+Qeema,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Taste was average overall,5,5
+Burnt Daal,Too much,Yes,Half,Cold food,Cold Rice,Too much,Yes,Half,Cold food,Dry Bread,Too much,Yes,Half,Cold food,Portion size was too much,1,2
+Dry Bread,Enough,No,None,Too oily,Burnt Daal,Enough,No,None,Too oily,Dry Bread,Enough,No,None,Too oily,Hygiene was decent but taste was average,2,1
+Daal Chawal,Enough,Yes,Half,Bad taste,Dry Bread,Enough,Yes,Half,Bad taste,Dry Bread,Enough,Yes,Half,Bad taste,Food was oily and cold,1,2
+Pasta,Too much,Yes,Most,Too oily,Daal Chawal,Too much,Yes,Most,Too oily,Daal Chawal,Too much,Yes,Most,Too oily,Taste was average overall,3,4
+Qeema,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Daal Chawal,Enough,No,None,Fresh and tasty,Food was okay but oily,4,4
+Burnt Daal,Enough,Yes,Most,Cold food,Daal Chawal,Enough,Yes,Most,Cold food,Cold Rice,Enough,Yes,Most,Cold food,Food was oily and cold,2,1
+Pasta,Too much,Yes,Half,No appetite,Daal Chawal,Too much,Yes,Half,No appetite,Daal Chawal,Too much,Yes,Half,No appetite,Taste was average overall,3,2
+Biryani,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Food was okay but oily,5,5
+Mix Vegetables,Too much,No,None,No appetite,Pasta,Too much,No,None,No appetite,Daal Chawal,Too much,No,None,No appetite,Portion was fine but food was cold,2,4
+Daal Chawal,Too much,Yes,Half,Average taste,Biryani,Too much,Yes,Half,Average taste,Mix Vegetables,Too much,Yes,Half,Average taste,Portion was fine but food was cold,4,2
+Daal Chawal,Too much,Yes,Half,Bad taste,Pasta,Too much,Yes,Half,Bad taste,Dry Bread,Too much,Yes,Half,Bad taste,Portion size was too much,1,2
+Cold Rice,Too much,Yes,Most,Too oily,Mix Vegetables,Too much,Yes,Most,Too oily,Daal Chawal,Too much,Yes,Most,Too oily,Taste was average overall,3,4
+Burnt Daal,Too much,Yes,Most,Too oily,Mix Vegetables,Too much,Yes,Most,Too oily,Burnt Daal,Too much,Yes,Most,Too oily,Mess hygiene needs improvement,2,1
+Savour Pulao,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Food was fresh and tasty,5,4
+Mix Vegetables,Enough,Yes,Half,Average taste,Daal Chawal,Enough,Yes,Half,Average taste,Mix Vegetables,Enough,Yes,Half,Average taste,Meal quality was acceptable,2,4
+Pasta,Enough,Yes,Half,Too oily,Daal Chawal,Enough,Yes,Half,Too oily,Daal Chawal,Enough,Yes,Half,Too oily,Hygiene was decent but taste was average,2,2
+Mix Vegetables,Too much,No,None,Average taste,Biryani,Too much,No,None,Average taste,Cold Rice,Too much,No,None,Average taste,Taste was average overall,2,2
+Cold Rice,Too much,No,None,No appetite,Daal Chawal,Too much,No,None,No appetite,Daal Chawal,Too much,No,None,No appetite,Portion was fine but food was cold,2,2
+Mix Vegetables,Enough,Yes,Half,Average taste,Mix Vegetables,Enough,Yes,Half,Average taste,Mix Vegetables,Enough,Yes,Half,Average taste,Meal quality was acceptable,4,4
+Dry Bread,Too much,Yes,Most,Bad taste,Daal Chawal,Too much,Yes,Most,Bad taste,Cold Rice,Too much,Yes,Most,Bad taste,Dinner quality was disappointing,2,2
+Dry Bread,Too much,Yes,Half,Large portion,Daal Chawal,Too much,Yes,Half,Large portion,Dry Bread,Too much,Yes,Half,Large portion,Dinner quality was disappointing,1,1
+Biryani,Too little,No,None,Fresh and tasty,Qeema,Too little,No,None,Fresh and tasty,Biryani,Too little,No,None,Fresh and tasty,Meal was enjoyable overall,4,4
+Cold Rice,Too much,No,None,Cold food,Burnt Daal,Too much,No,None,Cold food,Dry Bread,Too much,No,None,Cold food,Mess hygiene needs improvement,2,1
+Burnt Daal,Enough,Yes,Most,Cold food,Burnt Daal,Enough,Yes,Most,Cold food,Cold Rice,Enough,Yes,Most,Cold food,Meal quality was acceptable,1,2
+Mix Vegetables,Enough,Yes,Half,Average taste,Daal Chawal,Enough,Yes,Half,Average taste,Mix Vegetables,Enough,Yes,Half,Average taste,Food was okay but oily,4,3
+Chicken Karahi,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Meal was enjoyable overall,4,5
+Dry Bread,Too much,No,None,Cold food,Pasta,Too much,No,None,Cold food,Burnt Daal,Too much,No,None,Cold food,Portion was fine but food was cold,1,1
+Burnt Daal,Enough,No,None,Large portion,Mix Vegetables,Enough,No,None,Large portion,Cold Rice,Enough,No,None,Large portion,Portion was fine but food was cold,2,1
+Cold Rice,Too much,Yes,Most,Large portion,Mix Vegetables,Too much,Yes,Most,Large portion,Dry Bread,Too much,Yes,Most,Large portion,Food was oily and cold,2,2
+Burnt Daal,Enough,Yes,Most,Bad taste,Dry Bread,Enough,Yes,Most,Bad taste,Dry Bread,Enough,Yes,Most,Bad taste,Food was oily and cold,2,1
+Cold Rice,Enough,Yes,Half,Bad taste,Pasta,Enough,Yes,Half,Bad taste,Cold Rice,Enough,Yes,Half,Bad taste,Food was oily and cold,1,2
+Cold Rice,Enough,No,None,Cold food,Dry Bread,Enough,No,None,Cold food,Cold Rice,Enough,No,None,Cold food,Portion was fine but food was cold,1,1
+Cold Rice,Enough,Yes,Most,Average taste,Biryani,Enough,Yes,Most,Average taste,Mix Vegetables,Enough,Yes,Most,Average taste,Meal quality was acceptable,3,3
+Qeema,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Food quality was decent today,5,4
+Cold Rice,Enough,No,None,Large portion,Cold Rice,Enough,No,None,Large portion,Burnt Daal,Enough,No,None,Large portion,Meal quality was acceptable,1,2
+Cold Rice,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Portion was fine but food was cold,3,4
+Qeema,Too little,Yes,Most,No appetite,Qeema,Too little,Yes,Most,No appetite,Savour Pulao,Too little,Yes,Most,No appetite,Taste was average overall,4,5
+Daal Chawal,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Lunch was good but could improve,4,5
+Cold Rice,Enough,Yes,Half,No appetite,Pasta,Enough,Yes,Half,No appetite,Daal Chawal,Enough,Yes,Half,No appetite,Portion was fine but food was cold,2,2
+Daal Chawal,Too much,No,None,Too oily,Dry Bread,Too much,No,None,Too oily,Dry Bread,Too much,No,None,Too oily,Meal quality was acceptable,2,2
+Dry Bread,Too much,Yes,Half,Large portion,Cold Rice,Too much,Yes,Half,Large portion,Burnt Daal,Too much,Yes,Half,Large portion,Food was oily and cold,1,2
+Qeema,Too little,Yes,Most,Fresh and tasty,Savour Pulao,Too little,Yes,Most,Fresh and tasty,Mix Vegetables,Too little,Yes,Most,Fresh and tasty,Taste was average overall,5,5
+Mix Vegetables,Enough,Yes,Half,Too oily,Daal Chawal,Enough,Yes,Half,Too oily,Daal Chawal,Enough,Yes,Half,Too oily,Food was okay but oily,4,3
+Biryani,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Food was fresh and tasty,4,4
+Burnt Daal,Enough,No,None,Too oily,Mix Vegetables,Enough,No,None,Too oily,Cold Rice,Enough,No,None,Too oily,Taste was not good today,1,2
+Cold Rice,Enough,Yes,Half,Cold food,Cold Rice,Enough,Yes,Half,Cold food,Cold Rice,Enough,Yes,Half,Cold food,Mess hygiene needs improvement,1,1
+Dry Bread,Too much,No,None,Bad taste,Burnt Daal,Too much,No,None,Bad taste,Dry Bread,Too much,No,None,Bad taste,Taste was not good today,2,2
+Daal Chawal,Too much,No,None,Too oily,Daal Chawal,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Hygiene was decent but taste was average,4,3
+Cold Rice,Too much,Yes,Half,Average taste,Daal Chawal,Too much,Yes,Half,Average taste,Mix Vegetables,Too much,Yes,Half,Average taste,Portion was fine but food was cold,2,2
+Cold Rice,Enough,No,None,Large portion,Daal Chawal,Enough,No,None,Large portion,Cold Rice,Enough,No,None,Large portion,Mess hygiene needs improvement,2,1
+Cold Rice,Too much,No,None,Bad taste,Daal Chawal,Too much,No,None,Bad taste,Burnt Daal,Too much,No,None,Bad taste,Portion size was too much,2,2
+Chicken Karahi,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Pasta,Enough,No,None,No appetite,Taste was average overall,5,4
+Cold Rice,Too much,No,None,Large portion,Mix Vegetables,Too much,No,None,Large portion,Dry Bread,Too much,No,None,Large portion,Portion size was too much,1,1
+Chicken Karahi,Too little,Yes,Half,Fresh and tasty,Biryani,Too little,Yes,Half,Fresh and tasty,Biryani,Too little,Yes,Half,Fresh and tasty,Food was fresh and tasty,5,4
+Daal Chawal,Too little,No,None,Average taste,Chicken Karahi,Too little,No,None,Average taste,Daal Chawal,Too little,No,None,Average taste,Meal was enjoyable overall,5,5
+Cold Rice,Too much,Yes,Most,Too oily,Burnt Daal,Too much,Yes,Most,Too oily,Burnt Daal,Too much,Yes,Most,Too oily,Hygiene was decent but taste was average,2,2
+Daal Chawal,Enough,No,None,No appetite,Daal Chawal,Enough,No,None,No appetite,Mix Vegetables,Enough,No,None,No appetite,Portion was fine but food was cold,4,2
+Qeema,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Pasta,Enough,No,None,No appetite,Lunch was good but could improve,5,4
+Daal Chawal,Too much,Yes,Half,Too oily,Burnt Daal,Too much,Yes,Half,Too oily,Cold Rice,Too much,Yes,Half,Too oily,Dinner quality was disappointing,2,1
+Daal Chawal,Too much,Yes,Most,Large portion,Pasta,Too much,Yes,Most,Large portion,Cold Rice,Too much,Yes,Most,Large portion,Meal quality was acceptable,2,1
+Dry Bread,Too much,Yes,Half,Cold food,Daal Chawal,Too much,Yes,Half,Cold food,Burnt Daal,Too much,Yes,Half,Cold food,Taste was not good today,2,1
+Cold Rice,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Daal Chawal,Enough,No,None,Average taste,Portion was fine but food was cold,3,3
+Cold Rice,Enough,Yes,Most,Too oily,Pasta,Enough,Yes,Most,Too oily,Mix Vegetables,Enough,Yes,Most,Too oily,Portion was fine but food was cold,3,2
+Cold Rice,Too much,Yes,Half,Too oily,Pasta,Too much,Yes,Half,Too oily,Cold Rice,Too much,Yes,Half,Too oily,Portion was fine but food was cold,2,4
+Savour Pulao,Enough,Yes,Half,Fresh and tasty,Savour Pulao,Enough,Yes,Half,Fresh and tasty,Savour Pulao,Enough,Yes,Half,Fresh and tasty,Food was fresh and tasty,4,5
+Daal Chawal,Too little,No,None,No appetite,Chicken Karahi,Too little,No,None,No appetite,Pasta,Too little,No,None,No appetite,Lunch was good but could improve,4,5
+Qeema,Too little,Yes,Half,Average taste,Biryani,Too little,Yes,Half,Average taste,Mix Vegetables,Too little,Yes,Half,Average taste,Lunch was good but could improve,4,4
+Dry Bread,Enough,Yes,Most,Too oily,Cold Rice,Enough,Yes,Most,Too oily,Dry Bread,Enough,Yes,Most,Too oily,Meal quality was acceptable,1,2
+Daal Chawal,Too little,No,None,Fresh and tasty,Chicken Karahi,Too little,No,None,Fresh and tasty,Qeema,Too little,No,None,Fresh and tasty,Food quality was decent today,5,5
+Savour Pulao,Too little,No,None,No appetite,Chicken Karahi,Too little,No,None,No appetite,Savour Pulao,Too little,No,None,No appetite,Meal was enjoyable overall,4,5
+Cold Rice,Too much,Yes,Most,Bad taste,Daal Chawal,Too much,Yes,Most,Bad taste,Burnt Daal,Too much,Yes,Most,Bad taste,Meal quality was acceptable,1,2
+Chicken Karahi,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Food was okay but oily,4,5
+Cold Rice,Too much,No,None,Large portion,Pasta,Too much,No,None,Large portion,Burnt Daal,Too much,No,None,Large portion,Dinner quality was disappointing,1,1
+Chicken Karahi,Enough,Yes,Most,No appetite,Savour Pulao,Enough,Yes,Most,No appetite,Mix Vegetables,Enough,Yes,Most,No appetite,Taste was average overall,5,4
+Qeema,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Food quality was decent today,5,4
+Daal Chawal,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Food quality was decent today,4,5
+Daal Chawal,Enough,Yes,Most,Large portion,Cold Rice,Enough,Yes,Most,Large portion,Dry Bread,Enough,Yes,Most,Large portion,Portion was fine but food was cold,1,1
+Qeema,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Daal Chawal,Enough,No,None,No appetite,Food quality was decent today,5,5
+Burnt Daal,Too much,No,None,Bad taste,Daal Chawal,Too much,No,None,Bad taste,Cold Rice,Too much,No,None,Bad taste,Dinner quality was disappointing,1,2
+Savour Pulao,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Food quality was decent today,5,5
+Pasta,Too much,Yes,Most,No appetite,Biryani,Too much,Yes,Most,No appetite,Daal Chawal,Too much,Yes,Most,No appetite,Hygiene was decent but taste was average,2,2
+Daal Chawal,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Food was okay but oily,5,4
+Cold Rice,Enough,Yes,Half,Too oily,Cold Rice,Enough,Yes,Half,Too oily,Burnt Daal,Enough,Yes,Half,Too oily,Meal quality was acceptable,2,2
+Biryani,Too little,No,None,Average taste,Biryani,Too little,No,None,Average taste,Chicken Karahi,Too little,No,None,Average taste,Food was fresh and tasty,4,4
+Savour Pulao,Too little,No,None,No appetite,Chicken Karahi,Too little,No,None,No appetite,Pasta,Too little,No,None,No appetite,Food was okay but oily,5,4
+Daal Chawal,Too much,Yes,Half,Average taste,Daal Chawal,Too much,Yes,Half,Average taste,Mix Vegetables,Too much,Yes,Half,Average taste,Portion was fine but food was cold,4,2
+Pasta,Enough,No,None,Too oily,Mix Vegetables,Enough,No,None,Too oily,Daal Chawal,Enough,No,None,Too oily,Food was okay but oily,2,4
+Daal Chawal,Too little,Yes,Half,Average taste,Biryani,Too little,Yes,Half,Average taste,Qeema,Too little,Yes,Half,Average taste,Lunch was good but could improve,5,5
+Daal Chawal,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Mix Vegetables,Enough,No,None,Fresh and tasty,Meal was enjoyable overall,4,5
+Chicken Karahi,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Food quality was decent today,5,5
+Daal Chawal,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Lunch was good but could improve,4,4
+Daal Chawal,Too little,Yes,Most,Fresh and tasty,Biryani,Too little,Yes,Most,Fresh and tasty,Mix Vegetables,Too little,Yes,Most,Fresh and tasty,Food was okay but oily,4,4
+Mix Vegetables,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Cold Rice,Too much,No,None,Too oily,Meal quality was acceptable,4,2
+Daal Chawal,Too much,No,None,Average taste,Daal Chawal,Too much,No,None,Average taste,Cold Rice,Too much,No,None,Average taste,Portion was fine but food was cold,4,3
+Pasta,Too much,Yes,Most,Too oily,Pasta,Too much,Yes,Most,Too oily,Pasta,Too much,Yes,Most,Too oily,Food was okay but oily,3,4
+Daal Chawal,Enough,Yes,Half,Cold food,Cold Rice,Enough,Yes,Half,Cold food,Cold Rice,Enough,Yes,Half,Cold food,Taste was not good today,2,1
+Savour Pulao,Too little,No,None,No appetite,Chicken Karahi,Too little,No,None,No appetite,Savour Pulao,Too little,No,None,No appetite,Food was fresh and tasty,4,5
+Pasta,Too much,No,None,Average taste,Pasta,Too much,No,None,Average taste,Pasta,Too much,No,None,Average taste,Taste was average overall,2,4
+Savour Pulao,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Food quality was decent today,4,5
+Daal Chawal,Too much,No,None,Cold food,Burnt Daal,Too much,No,None,Cold food,Dry Bread,Too much,No,None,Cold food,Taste was not good today,2,1
+Chicken Karahi,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Satisfied with hygiene and taste,4,4
+Dry Bread,Too much,Yes,Half,Bad taste,Cold Rice,Too much,Yes,Half,Bad taste,Cold Rice,Too much,Yes,Half,Bad taste,Hygiene was decent but taste was average,2,2
+Daal Chawal,Too much,No,None,Too oily,Biryani,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Food was okay but oily,4,3
+Pasta,Too much,No,None,Average taste,Pasta,Too much,No,None,Average taste,Cold Rice,Too much,No,None,Average taste,Meal quality was acceptable,2,4
+Mix Vegetables,Too much,No,None,Too oily,Daal Chawal,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Taste was average overall,4,3
+Dry Bread,Too much,Yes,Most,Bad taste,Cold Rice,Too much,Yes,Most,Bad taste,Burnt Daal,Too much,Yes,Most,Bad taste,Hygiene was decent but taste was average,2,2
+Chicken Karahi,Too little,No,None,No appetite,Qeema,Too little,No,None,No appetite,Qeema,Too little,No,None,No appetite,Food was fresh and tasty,4,5
+Chicken Karahi,Too little,No,None,No appetite,Qeema,Too little,No,None,No appetite,Qeema,Too little,No,None,No appetite,Taste was average overall,4,4
+Cold Rice,Too much,Yes,Half,Cold food,Dry Bread,Too much,Yes,Half,Cold food,Dry Bread,Too much,Yes,Half,Cold food,Dinner quality was disappointing,2,2
+Qeema,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Mix Vegetables,Enough,No,None,No appetite,Food was okay but oily,5,5
+Cold Rice,Enough,Yes,Most,Average taste,Biryani,Enough,Yes,Most,Average taste,Cold Rice,Enough,Yes,Most,Average taste,Portion was fine but food was cold,2,3
+Burnt Daal,Too much,Yes,Half,Cold food,Pasta,Too much,Yes,Half,Cold food,Burnt Daal,Too much,Yes,Half,Cold food,Mess hygiene needs improvement,2,2
+Biryani,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Lunch was good but could improve,4,5
+Qeema,Enough,Yes,Most,Fresh and tasty,Chicken Karahi,Enough,Yes,Most,Fresh and tasty,Biryani,Enough,Yes,Most,Fresh and tasty,Meal was enjoyable overall,4,4
+Cold Rice,Enough,Yes,Half,Average taste,Pasta,Enough,Yes,Half,Average taste,Cold Rice,Enough,Yes,Half,Average taste,Food was okay but oily,4,3
+Dry Bread,Too much,Yes,Half,Bad taste,Mix Vegetables,Too much,Yes,Half,Bad taste,Cold Rice,Too much,Yes,Half,Bad taste,Hygiene was decent but taste was average,1,1
+Cold Rice,Too much,No,None,Bad taste,Cold Rice,Too much,No,None,Bad taste,Cold Rice,Too much,No,None,Bad taste,Portion was fine but food was cold,1,1
+Dry Bread,Too much,No,None,Cold food,Mix Vegetables,Too much,No,None,Cold food,Burnt Daal,Too much,No,None,Cold food,Meal quality was acceptable,2,1
+Qeema,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Daal Chawal,Enough,No,None,No appetite,Lunch was good but could improve,5,4
+Daal Chawal,Enough,Yes,Most,Too oily,Biryani,Enough,Yes,Most,Too oily,Cold Rice,Enough,Yes,Most,Too oily,Taste was average overall,2,4
+Burnt Daal,Too much,Yes,Half,Bad taste,Burnt Daal,Too much,Yes,Half,Bad taste,Cold Rice,Too much,Yes,Half,Bad taste,Meal quality was acceptable,2,1
+Qeema,Enough,No,None,No appetite,Savour Pulao,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Taste was average overall,4,5
+Cold Rice,Enough,Yes,Most,Too oily,Pasta,Enough,Yes,Most,Too oily,Daal Chawal,Enough,Yes,Most,Too oily,Meal quality was acceptable,2,4
+Dry Bread,Too much,No,None,Too oily,Dry Bread,Too much,No,None,Too oily,Burnt Daal,Too much,No,None,Too oily,Food was oily and cold,1,2
+Daal Chawal,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Food was fresh and tasty,5,5
+Mix Vegetables,Enough,Yes,Most,Average taste,Mix Vegetables,Enough,Yes,Most,Average taste,Daal Chawal,Enough,Yes,Most,Average taste,Food was okay but oily,4,2
+Savour Pulao,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Taste was average overall,4,5
+Daal Chawal,Enough,Yes,Most,No appetite,Qeema,Enough,Yes,Most,No appetite,Qeema,Enough,Yes,Most,No appetite,Meal was enjoyable overall,4,5
+Savour Pulao,Too little,No,None,Average taste,Savour Pulao,Too little,No,None,Average taste,Savour Pulao,Too little,No,None,Average taste,Meal was enjoyable overall,5,5
+Chicken Karahi,Too little,Yes,Most,Fresh and tasty,Savour Pulao,Too little,Yes,Most,Fresh and tasty,Mix Vegetables,Too little,Yes,Most,Fresh and tasty,Meal was enjoyable overall,4,4
+Daal Chawal,Too much,No,None,Bad taste,Dry Bread,Too much,No,None,Bad taste,Burnt Daal,Too much,No,None,Bad taste,Mess hygiene needs improvement,2,1
+Pasta,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Cold Rice,Too much,No,None,Too oily,Taste was average overall,2,2
+Cold Rice,Too much,Yes,Most,Bad taste,Burnt Daal,Too much,Yes,Most,Bad taste,Cold Rice,Too much,Yes,Most,Bad taste,Food was oily and cold,1,1
+Qeema,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Lunch was good but could improve,4,4
+Dry Bread,Enough,Yes,Most,Bad taste,Mix Vegetables,Enough,Yes,Most,Bad taste,Cold Rice,Enough,Yes,Most,Bad taste,Portion was fine but food was cold,1,1
+Qeema,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Pasta,Enough,No,None,Fresh and tasty,Satisfied with hygiene and taste,4,5
+Daal Chawal,Too much,No,None,Average taste,Mix Vegetables,Too much,No,None,Average taste,Daal Chawal,Too much,No,None,Average taste,Meal quality was acceptable,4,3
+Mix Vegetables,Too much,No,None,Average taste,Mix Vegetables,Too much,No,None,Average taste,Pasta,Too much,No,None,Average taste,Taste was average overall,4,2
+Qeema,Too little,No,None,Average taste,Qeema,Too little,No,None,Average taste,Mix Vegetables,Too little,No,None,Average taste,Food quality was decent today,4,5
+Burnt Daal,Too much,Yes,Most,Cold food,Cold Rice,Too much,Yes,Most,Cold food,Dry Bread,Too much,Yes,Most,Cold food,Mess hygiene needs improvement,2,2
+Burnt Daal,Enough,Yes,Most,Large portion,Burnt Daal,Enough,Yes,Most,Large portion,Burnt Daal,Enough,Yes,Most,Large portion,Food was oily and cold,2,2
+Savour Pulao,Enough,Yes,Most,Average taste,Savour Pulao,Enough,Yes,Most,Average taste,Pasta,Enough,Yes,Most,Average taste,Food quality was decent today,5,5
+Daal Chawal,Too much,No,None,Too oily,Dry Bread,Too much,No,None,Too oily,Cold Rice,Too much,No,None,Too oily,Food was oily and cold,2,1
+Savour Pulao,Too little,No,None,Average taste,Savour Pulao,Too little,No,None,Average taste,Pasta,Too little,No,None,Average taste,Satisfied with hygiene and taste,4,4
+Biryani,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Taste was average overall,4,5
+Chicken Karahi,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Satisfied with hygiene and taste,5,5
+Qeema,Too little,No,None,Average taste,Savour Pulao,Too little,No,None,Average taste,Biryani,Too little,No,None,Average taste,Food was fresh and tasty,4,5
+Qeema,Enough,Yes,Most,No appetite,Biryani,Enough,Yes,Most,No appetite,Biryani,Enough,Yes,Most,No appetite,Food quality was decent today,4,5
+Daal Chawal,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Pasta,Enough,No,None,Fresh and tasty,Satisfied with hygiene and taste,5,4
+Daal Chawal,Enough,Yes,Half,Average taste,Savour Pulao,Enough,Yes,Half,Average taste,Chicken Karahi,Enough,Yes,Half,Average taste,Food was fresh and tasty,5,4
+Dry Bread,Too much,Yes,Half,Cold food,Burnt Daal,Too much,Yes,Half,Cold food,Burnt Daal,Too much,Yes,Half,Cold food,Portion was fine but food was cold,2,2
+Savour Pulao,Enough,No,None,No appetite,Biryani,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Food was fresh and tasty,4,5
+Biryani,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Qeema,Enough,No,None,No appetite,Food was fresh and tasty,4,4
+Savour Pulao,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Food was okay but oily,5,5
+Dry Bread,Too much,Yes,Half,Large portion,Mix Vegetables,Too much,Yes,Half,Large portion,Cold Rice,Too much,Yes,Half,Large portion,Portion was fine but food was cold,2,1
+Chicken Karahi,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Mix Vegetables,Enough,No,None,Fresh and tasty,Satisfied with hygiene and taste,4,4
+Chicken Karahi,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Food quality was decent today,5,5
+Chicken Karahi,Enough,No,None,No appetite,Chicken Karahi,Enough,No,None,No appetite,Pasta,Enough,No,None,No appetite,Satisfied with hygiene and taste,5,4
+Mix Vegetables,Too much,No,None,Average taste,Mix Vegetables,Too much,No,None,Average taste,Daal Chawal,Too much,No,None,Average taste,Hygiene was decent but taste was average,4,2
+Burnt Daal,Enough,No,None,Too oily,Burnt Daal,Enough,No,None,Too oily,Cold Rice,Enough,No,None,Too oily,Meal quality was acceptable,2,2
+Daal Chawal,Enough,No,None,Fresh and tasty,Biryani,Enough,No,None,Fresh and tasty,Qeema,Enough,No,None,Fresh and tasty,Satisfied with hygiene and taste,5,4
+Qeema,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Taste was average overall,5,4
+Daal Chawal,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Cold Rice,Too much,No,None,Too oily,Taste was average overall,3,3
+Biryani,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Mix Vegetables,Enough,No,None,Fresh and tasty,Food was fresh and tasty,4,5
+Chicken Karahi,Enough,No,None,Fresh and tasty,Savour Pulao,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Food quality was decent today,4,5
+Biryani,Too little,Yes,Half,Fresh and tasty,Qeema,Too little,Yes,Half,Fresh and tasty,Chicken Karahi,Too little,Yes,Half,Fresh and tasty,Satisfied with hygiene and taste,4,4
+Qeema,Enough,Yes,Half,Fresh and tasty,Biryani,Enough,Yes,Half,Fresh and tasty,Chicken Karahi,Enough,Yes,Half,Fresh and tasty,Food was fresh and tasty,4,5
+Savour Pulao,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Food was okay but oily,5,4
+Chicken Karahi,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Food was okay but oily,5,4
+Daal Chawal,Enough,Yes,Most,Too oily,Pasta,Enough,Yes,Most,Too oily,Cold Rice,Enough,Yes,Most,Too oily,Portion was fine but food was cold,3,2
+Dry Bread,Enough,Yes,Most,Cold food,Pasta,Enough,Yes,Most,Cold food,Cold Rice,Enough,Yes,Most,Cold food,Portion size was too much,1,1
+Qeema,Too little,No,None,Fresh and tasty,Savour Pulao,Too little,No,None,Fresh and tasty,Qeema,Too little,No,None,Fresh and tasty,Taste was average overall,4,4
+Cold Rice,Enough,Yes,Most,Cold food,Pasta,Enough,Yes,Most,Cold food,Burnt Daal,Enough,Yes,Most,Cold food,Food was oily and cold,2,2
+Cold Rice,Too much,Yes,Most,Too oily,Mix Vegetables,Too much,Yes,Most,Too oily,Daal Chawal,Too much,Yes,Most,Too oily,Taste was average overall,3,4
+Biryani,Enough,No,None,Average taste,Chicken Karahi,Enough,No,None,Average taste,Daal Chawal,Enough,No,None,Average taste,Satisfied with hygiene and taste,4,5
+Savour Pulao,Too little,No,None,No appetite,Savour Pulao,Too little,No,None,No appetite,Savour Pulao,Too little,No,None,No appetite,Lunch was good but could improve,5,4
+Dry Bread,Enough,No,None,Cold food,Daal Chawal,Enough,No,None,Cold food,Dry Bread,Enough,No,None,Cold food,Hygiene was decent but taste was average,2,2
+Pasta,Enough,Yes,Most,Average taste,Daal Chawal,Enough,Yes,Most,Average taste,Daal Chawal,Enough,Yes,Most,Average taste,Meal quality was acceptable,4,3
+Chicken Karahi,Enough,No,None,Average taste,Qeema,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Food was okay but oily,4,5
+Cold Rice,Too much,No,None,Too oily,Pasta,Too much,No,None,Too oily,Mix Vegetables,Too much,No,None,Too oily,Taste was average overall,3,2
+Dry Bread,Enough,Yes,Half,Cold food,Burnt Daal,Enough,Yes,Half,Cold food,Burnt Daal,Enough,Yes,Half,Cold food,Mess hygiene needs improvement,1,2
+Daal Chawal,Enough,Yes,Most,Bad taste,Dry Bread,Enough,Yes,Most,Bad taste,Dry Bread,Enough,Yes,Most,Bad taste,Portion size was too much,2,2
+Daal Chawal,Enough,No,None,Average taste,Biryani,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Food was okay but oily,4,4
+Burnt Daal,Enough,Yes,Most,Too oily,Mix Vegetables,Enough,Yes,Most,Too oily,Burnt Daal,Enough,Yes,Most,Too oily,Dinner quality was disappointing,1,1
+Cold Rice,Too much,Yes,Most,Too oily,Mix Vegetables,Too much,Yes,Most,Too oily,Mix Vegetables,Too much,Yes,Most,Too oily,Hygiene was decent but taste was average,4,4
+Dry Bread,Too much,Yes,Half,Bad taste,Pasta,Too much,Yes,Half,Bad taste,Dry Bread,Too much,Yes,Half,Bad taste,Mess hygiene needs improvement,2,2
+Cold Rice,Enough,Yes,Half,Average taste,Daal Chawal,Enough,Yes,Half,Average taste,Mix Vegetables,Enough,Yes,Half,Average taste,Portion was fine but food was cold,4,2
+Pasta,Enough,Yes,Half,Average taste,Biryani,Enough,Yes,Half,Average taste,Cold Rice,Enough,Yes,Half,Average taste,Meal quality was acceptable,2,2
+Pasta,Too much,Yes,Most,Too oily,Mix Vegetables,Too much,Yes,Most,Too oily,Pasta,Too much,Yes,Most,Too oily,Food was okay but oily,4,2
+Biryani,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Chicken Karahi,Enough,No,None,Fresh and tasty,Meal was enjoyable overall,5,5
+Cold Rice,Too much,Yes,Most,No appetite,Biryani,Too much,Yes,Most,No appetite,Pasta,Too much,Yes,Most,No appetite,Portion was fine but food was cold,3,3
+Daal Chawal,Enough,Yes,Most,Too oily,Mix Vegetables,Enough,Yes,Most,Too oily,Mix Vegetables,Enough,Yes,Most,Too oily,Hygiene was decent but taste was average,4,4
+Burnt Daal,Enough,Yes,Half,Bad taste,Burnt Daal,Enough,Yes,Half,Bad taste,Cold Rice,Enough,Yes,Half,Bad taste,Mess hygiene needs improvement,2,1
+Daal Chawal,Enough,No,None,Average taste,Pasta,Enough,No,None,Average taste,Mix Vegetables,Enough,No,None,Average taste,Food was okay but oily,4,2
+Qeema,Enough,No,None,Average taste,Savour Pulao,Enough,No,None,Average taste,Daal Chawal,Enough,No,None,Average taste,Meal was enjoyable overall,4,4
