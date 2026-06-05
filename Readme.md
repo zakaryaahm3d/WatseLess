@@ -2,10 +2,10 @@
 
 This repository contains various machine learning models trained on the `mess_feedback_forms.csv` dataset to predict sentiment and waste probability based on student feedback.
 
-## 📊 Dataset
+## Dataset
 The models utilize a dataset of mess feedback forms containing both textual feedback and numerical ratings regarding hygiene, portion sizes, main dishes, and overall experience.
 
-## 🤖 Models Implemented
+## Models Implemented
 
 | Model Name | Description | Accuracy (%) |
 | :--- | :--- | :--- |
@@ -15,10 +15,10 @@ The models utilize a dataset of mess feedback forms containing both textual feed
 | **RNN** | Understands sentence context and predicts sentiment using deep learning | 88.75% |
 | **K-MEANS CLUSTERING** | Groups students into similar behavioral clusters automatically | 86.42% |
 
-## 🚀 Best Performing Model
+## Best Performing Model
 The **Random Forest** model achieved the highest accuracy of **98.75%**. It efficiently predicts High Waste or Low Waste by assessing factors such as hygiene ratings, sentiment scores, and menu variables.
 
-## ⚙️ Features Extracted
+## Features Extracted
 The following features were processed for the models (especially Random Forest):
 - Textual Feedback (cleaned and vectorized using TF-IDF)
 - Feedback Length
@@ -27,7 +27,11 @@ The following features were processed for the models (especially Random Forest):
 - Encoded Menu Items and Portion Sizes
 - Negative Word Counts & Sentiment Scores
 
-## 🛠️ Usage
+## Usage
 1. Ensure you have the required Python libraries installed:
-   ```bash
-   pip install pandas scikit-learn matplotlib numpy
+   * pandas
+   * scikit-learn
+   * matplotlib
+   * numpy
+2. Load the dataset mess_feedback_forms.csv into the same directory as the notebook.
+3. Run the notebook cells sequentially to train and evaluate each model.
